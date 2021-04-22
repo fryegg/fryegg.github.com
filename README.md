@@ -20,7 +20,7 @@ Internship in AI Lab (Prof. Gyoobin Lee, GIST)
 (ICIP2020 – not accepted yet)  – fourth writer Feb 2020
 3  Rapid and Non-Destructive Spectroscopic Method for Classifying Beef Freshness using a Deep Spectral Network 
 Fused with Myoglobin Information - fourth writer JCR 2021
-
+```s
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
