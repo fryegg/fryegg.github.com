@@ -4,13 +4,13 @@ Hi my name is Seungjun Choi, I'm a graduate student major in Robotics. I'm in SS
 
 ### Markdown
 
-Name: Seungjun Choi(Peter)
-Major: Mechanical Engineering
-GIST College
-Gwangju Institute of Science and Technology(GIST)
-Major: Robotics
-KAIST Graduate School
-Korea Advanced Institute of Science and Technology(KAIST)
+Name: Seungjun Choi(Peter)\
+Major: Mechanical Engineering\
+GIST College\
+Gwangju Institute of Science and Technology(GIST)\
+Major: Robotics\
+KAIST Graduate School\
+Korea Advanced Institute of Science and Technology(KAIST)\
  
 ```markdown
 Syntax highlighted code block
