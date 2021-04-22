@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Internship in AI Lab (Prof. Gyoobin Lee, GIST)
+l  Low-Resolution Image Classification using Knowledge Distillation from High-Resolution Image via Self-Attention Map (KSC2019) - Second writer 	Dec 2019
+l  Segmenting Unseen Industrial Components in a Heavy Clutter Using RGB-D Fusion and Synthetic Data (ICIP2020 – not accepted yet)  – fourth writer              	Feb 2020
+l  Rapid and Non-Destructive Spectroscopic Method for Classifying Beef Freshness using a Deep Spectral Network Fused with Myoglobin Information - fourth writer  JCR 2021
 
 ### Jekyll Themes
 
