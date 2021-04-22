@@ -1,11 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to fryegg GitHub Pages
 
 Hi my name is Seungjun Choi, I'm a graduate student major in Robotics. I'm in SSS(Smart Structure System) Lab in KAIST.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Name: Seungjun Choi(Peter)
+Major: Mechanical Engineering
+GIST College
+Gwangju Institute of Science and Technology(GIST)
+Major: Robotics
+KAIST Graduate School
+Korea Advanced Institute of Science and Technology(KAIST)
+ 
 ```markdown
 Syntax highlighted code block
 
