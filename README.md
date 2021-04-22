@@ -2,14 +2,13 @@
 
 Hi my name is Seungjun Choi, I'm a graduate student major in Robotics. I'm in SSS(Smart Structure System) Lab in KAIST.
 
-### Markdown
+#### Bachelar
+**Name**: Seungjun Choi(Peter)\
+**Major**: Mechanical Engineering\
+**College**: Gwangju Institute of Science and Technology(GIST)\
 
-Name: Seungjun Choi(Peter)\
-Major: Mechanical Engineering\
-GIST College\
-Gwangju Institute of Science and Technology(GIST)\
-Major: Robotics\
-KAIST Graduate School\
+#### Master
+**Major**: Robotics\
 Korea Advanced Institute of Science and Technology(KAIST)\
  
 ```markdown
